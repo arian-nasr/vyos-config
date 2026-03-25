@@ -1,6 +1,6 @@
 ***
 
-# VyOS Hypervisor Configuration Guide
+# VyOS Hypervisor Configuration Guide w/ SR-IOV on Mellanox ConnectX-3
 **Arian Nasr**\
 **March 19, 2026**
 ## 1. Configure Hypervisor
